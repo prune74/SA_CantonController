@@ -1,4 +1,4 @@
-# Satellite autonome client
+# SA_CantonController
 
 PRESENTATION GENERALE DU CONCEPT DE SATELLITE AUTONOME
 
@@ -33,9 +33,3 @@ Parmi les défauts à corriger que j’avais identifié sur la version 1 :
 Les points 1, 2 et 3 en particulier obligeaient à adapter chaque programme avant son téléversement, les mises à jour devenaient compliquées et les risques d’erreurs importants.
 
 Avec cette nouvelle version, tous les programmes à télécharger sont absolument identiques pour tous les satellites. Les opérations de maintenance et de mise à jour sont considérablement simplifiées.
-
-Pour plus de détails, voir sur www.locoduino.org : https://www.locoduino.org/spip.php?article348
-
-Et sur le forum : https://forum.locoduino.org/index.php?topic=1648.msg17771
-
-# SA_CantonController
